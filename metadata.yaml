@@ -1,0 +1,45 @@
+_repo: The-golden-heart-and-other-fairy-stories_73964
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Sandheim, May
+    alias: Sandheim, May Catherine
+    birthdate: 1877
+    deathdate: 1909
+    gutenberg_agent_id: '57290'
+    url: http://www.gutenberg.org/2009/agents/57290
+creator:
+  author:
+    agent_name: Jacob, Violet
+    birthdate: 1863
+    deathdate: 1946
+    gutenberg_agent_id: '7709'
+    url: http://www.gutenberg.org/2009/agents/7709
+    wikipedia: https://en.wikipedia.org/wiki/Violet_Jacob
+description: ''
+gutenberg_issued: '2024-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73964'
+language: en
+pgterms:marc904: https://digital.nls.uk/works-by-selected-scottish-authors/archive/128693614#?c=0&m=0&s=0&cv=0&xywh=-691%2C-172%2C3755%2C3421
+pgterms:marc905: 20220711030836jacob
+pgterms:marc906: '1904'
+pgterms:marc907: EN
+production_note: 'This eBook was produced by: Delphine Lettau, Pat McCoy & the online
+  Distributed Proofreaders Canada team at https://www.pgdpcanada.net'
+publication_note: '  $aLondon :$bWilliam Heinemann, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy literature'
+- !lcsh 'Fairy tales'
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: 'The Golden Heart -- The Sorcerer''s sons and the two Princesses
+  of Japan -- Grimaçon -- The Dovecote -- The peacock''s tail -- The Pelican -- The
+  cherry trees -- Jack Frost: a story for very little children.'
+title: The golden heart, and other fairy stories
+url: http://www.gutenberg.org/ebooks/73964
